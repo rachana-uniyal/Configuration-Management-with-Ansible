@@ -1,7 +1,7 @@
 # Configuration-Management-with-Ansible
 
 
-## Project: Automate Node.js application Deployment 
+## 1. Automate Node.js application Deployment 
 
 ### Technologies used:
 Ansible, Node.js, DigitalOcean, Linux 
@@ -11,7 +11,7 @@ Ansible, Node.js, DigitalOcean, Linux
 - Write Ansible Playbook that Installs necessary technologies, creates Linux user for an application and deploy Node.js application with that user 
 
 
-## Project: Automate Nexus Deployment 
+## 2. Automate Nexus Deployment 
 
 ### Technologies used:
 Ansible, Nexus, DigitalOcean, Java, Linux 
