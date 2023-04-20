@@ -19,3 +19,13 @@ Ansible, Nexus, DigitalOcean, Java, Linux
 ### Project Description:
 - Create Server on DigitalOcean 
 - Write Ansible Playbook that creates Linux user for Nexus, configures server, installs and deploys Nexus, and verifies it is running successfully
+
+
+## 3. Ansible & Docker
+
+### Technologies used:
+Ansible, AWS, Docker, Terraform, Linux
+
+### Project Description:
+- Create AWS EC2 Instance with Terraform
+- Write Ansible Playbook that installs necessary technologies like Docker and Docker Compose, copies docker-compose file to the server and starts the Docker containers configured inside the docker-compose file
