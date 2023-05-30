@@ -39,7 +39,7 @@ Ansible, AWS, Docker, Terraform, Linux
    - Once Terraform provisions a server, it will execute an Ansible playbook that configures the server.
 You can find the code project on the [ansible branch](https://github.com/rachana-uniyal/IaC-with-Terraform/tree/ansible) of the GitHub repository.
 
-## 5 Configure Dynamic Inventory
+## 5. Configure Dynamic Inventory
 
 **Technologies used:** Ansible, Terraform, AWS
 
@@ -51,7 +51,7 @@ You can find the code project on the [ansible branch](https://github.com/rachana
 
 You can find the code for this project on the [deploy-to-ec2 branch](https://github.com/rachana-uniyal/IaC-with-Terraform/tree/deploy-to-ec2) of the GitHub repository.
 
-## 6 Automate Kubernetes Deployment
+## 6. Automate Kubernetes Deployment
 
 **Technologies used:** Ansible, Terraform, Kubernetes, AWS EKS, Python, Linux
 
